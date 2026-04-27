@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'edwood';
+    src: url('file:///C|/fonts/edwood.ttf');
+}
+
+h1 {
+    font-family: 'edwood';
+}
